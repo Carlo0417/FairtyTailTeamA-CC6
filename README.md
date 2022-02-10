@@ -1,1 +1,1 @@
-# FaityTailTeamA-CC6
+# FairyTailTeamA-CC6
