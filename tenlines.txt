@@ -1,10 +1,10 @@
-1 line
+1 LUCY
 2 line
 3 line
 not anymore
 5 line
 6 line
-7 line
+7 NATSU
 not anymore
 9 line
 10 line
